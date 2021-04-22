@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398031148848",
+    "project_id": "weathertest-311408",
+    "storage_bucket": "weathertest-311408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398031148848:android:61befe7afc6ddfc3e7daf5",
+        "android_client_info": {
+          "package_name": "com.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398031148848-1rokl1hqfflahl0n20evhovja5502b64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBaNO5DLXVL0PhYht8lGD3Ijrmpj6BZOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398031148848-1rokl1hqfflahl0n20evhovja5502b64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
